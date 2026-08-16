@@ -14,7 +14,6 @@ The projects in this repository utilize the following core libraries and tools:
 *   **Data Manipulation:** Pandas, NumPy
 *   **Data Visualization:** Matplotlib, Seaborn
 *   **Machine Learning:** Scikit-Learn
-*   **Deep Learning (Optional):** TensorFlow / PyTorch
 *   **Environment:** Jupyter Notebook / VS Code
 # Models Implemented
 
