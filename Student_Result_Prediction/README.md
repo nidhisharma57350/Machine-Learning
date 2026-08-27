@@ -10,8 +10,11 @@ Objective:
 The main objective of this project is to build a Machine Learning model that can predict a student's result based on their study and sleep patterns.
 
 Target Variable:
+
 pass → 1 = Pass
+
 pass → 0 = Fail
+
 Dataset:
 
 The dataset contains information related to students' study and sleep habits.
