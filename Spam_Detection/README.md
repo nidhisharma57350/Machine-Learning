@@ -14,8 +14,11 @@ The main objective of this project is to build a simple and effective text class
 Naive Bayes is a probabilistic machine learning algorithm that is commonly used for text classification problems such as:
 
 Spam detection
+
 Sentiment analysis
+
 Document classification
+
 Text categorization
 
 It works by calculating the probability of a message belonging to a particular class based on the words present in the message.
@@ -40,16 +43,23 @@ Prediction
 Model Evaluation
 ## Technologies & Libraries:
 Python
+
 Pandas – Data loading and manipulation
+
 NumPy – Numerical operations
+
 Scikit-learn – Machine Learning and model evaluation
+
 Matplotlib / Seaborn – Data visualization (if used)
+
 Jupyter Notebook – Development and experimentation
+
 ## Dataset:
 
 The project uses a dataset containing text messages labeled as:
 
 Spam – Unwanted or promotional messages
+
 Ham – Legitimate/non-spam messages
 
 The dataset is loaded using Pandas.
@@ -67,9 +77,13 @@ The processed features are then provided to the Naive Bayes classifier, which le
 The trained model is evaluated using standard classification metrics such as:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1-Score
+
 Confusion Matrix
 
 These metrics help measure how effectively the model distinguishes between spam and ham messages.
