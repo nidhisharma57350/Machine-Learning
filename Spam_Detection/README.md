@@ -132,7 +132,7 @@ Handling class imbalance
 
 Deploying the model as a web application or API.
 
-👩‍💻 Author
+Author:
 
 Nidhi Sharma
 
