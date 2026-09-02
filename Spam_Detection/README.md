@@ -123,10 +123,14 @@ Future Improvements:
 The project can be further improved by:
 
 Testing different text vectorization techniques
+
 Comparing multiple Machine Learning algorithms
+
 Hyperparameter tuning
+
 Handling class imbalance
-Deploying the model as a web application or API
+
+Deploying the model as a web application or API.
 
 👩‍💻 Author
 
